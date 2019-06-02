@@ -5,14 +5,21 @@ body {
 	background-color: #D3F6F5;
 }
 
+h{
+  color: navy;
+  font-size: 45px;
+  border-style: double;
+	padding: 20px;
+}
+
 h1{
 	color: black;
 	font-size: 30px;
 	border-style: dashed;
-	padding-top: 10 px;
-	padding-bottom: 10 px;
-	padding-left: 20 px;
-	padding-right: 20 px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
 }
 
 h2{
@@ -26,7 +33,7 @@ h2{
 
 p{
 	color: DimGray;
-	font-size: 16 px;
+	font-size: 16px;
 	padding-top: 5px;
 	padding-bottom: 5px;
 	padding-left: 20px;
