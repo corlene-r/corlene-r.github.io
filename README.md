@@ -1,6 +1,6 @@
 # corlene-r.github.io
 #  
-# Hopefully everything is correctly implemented! The image took a while to get right but I think it's good now
+# Hopefully everything is correctly implemented! The image took a while to get right but I think it's good now. 
 #
 # I haven't worked/discussed this lab with anyone outside of piazza!
 #
