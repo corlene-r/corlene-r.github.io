@@ -5,11 +5,11 @@ body {
 	background-color: #D3F6F5;
 }
 
-h{
-	color: navy;
-	font-size: 45px;
-	border-style: double;
-	padding: 20px;
+img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
 }
 
 h1{
